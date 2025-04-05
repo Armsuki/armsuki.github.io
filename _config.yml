@@ -23,7 +23,9 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Sun Yue"
+  name             : <div align = "center">
+                     Sun Yue
+                     </div>
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Malaysia"
