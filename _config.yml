@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "All for the evolution of robot"
   location         : "Malaysia"
-  employer         : "Red Brick University"
+  employer         : "University of Science Malaysia"
   uri              : # URL
   email            : "suny@student.usm.my" 
 
@@ -35,11 +35,11 @@ author:
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "http://orcid.org/0009-0002-1265-0839"
   semantic         : # URL
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
-  scopus           : # URL
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=58974237200"
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
