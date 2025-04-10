@@ -8,8 +8,8 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-site_theme               : "default"
-title                    : "Advanced Robot"
+site_theme               : "Advanced Robot"
+title                    : "Robotic Evolution"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Sun Yue"
   pronouns         : # example: "she/her"  
-  bio              : "All for the evolution of robot"
+  bio              : "Robotics, Robot Control, Robot Design"
   location         : "Malaysia"
   employer         : "University of Science Malaysia"
   uri              : # URL
