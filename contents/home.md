@@ -1,8 +1,8 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+<!-- [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073) -->
 
-He is currently a MSc student by research mode in the School of Electrical and Electronic Engineering (EE) at Universiti Sains Malaysia.
+He is currently a M.Sc. student by research mode in the School of Electrical and Electronic Engineering (EE) at Universiti Sains Malaysia.
 
 #### Contact
 
@@ -13,5 +13,5 @@ M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—2027.\
 B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Robot force control; Foundation Model; Observational Seismology; Microseismic Monitoring
 
