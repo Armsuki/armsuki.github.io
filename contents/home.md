@@ -1,6 +1,6 @@
 
 
-[![Github](https://img.shields.io/badge/Armsuki-github-blue?logo=github)](https://github.com/armsuki) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1265--0839-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1265-0839)
+[![Github](https://img.shields.io/badge/Armsuki-github-blue?logo=github)](https://github.com/armsuki) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1265--0839-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1265-0839) [![Google  Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TRwERroAAAAJ)
 
 He is currently a M.Sc. student by research mode in the School of Electrical and Electronic Engineering (EE) at Universiti Sains Malaysia.
 
@@ -15,5 +15,5 @@ B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 #### Research Interests
 Robot force control; Foundation Model; Observational Seismology; Microseismic Monitoring
 
-#### Research
+#### Research Progress
 
