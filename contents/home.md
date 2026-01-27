@@ -9,7 +9,7 @@ He is currently a M.Sc. student by research mode in the School of Electrical and
 Email: son.to.robotics [at] gmail.com
 
 #### Education
-M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—2027.\
+M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—Pres.\
 B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 
 #### Research Interests
