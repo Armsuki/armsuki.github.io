@@ -6,7 +6,7 @@ He is currently a MSc student by research mode in the School of Electrical and E
 
 #### Contact
 
-Email: son.to.robotics@gmail.com
+Email: son.to.robotics [at] gmail.com
 
 #### Education
 M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—2027.\
