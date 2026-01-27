@@ -6,7 +6,7 @@ He is currently a M.Sc. student by research mode in the School of Electrical and
 
 #### Contact
 
-USM, Engineering Campus, Nibong Tebal, Penang, Malaysia
+USM, Engineering Campus, Nibong Tebal, Penang, Malaysia, 14300
 
 #### Education
 M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—Pres.\
