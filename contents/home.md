@@ -1,6 +1,6 @@
 
 
-[![Email](https://img.shields.io/badge/Email-yourname%40example.com-6D4AFF?logo=gmail&logoColor=white)](mailto:son.to.robotics@gmail.com) [![Github](https://img.shields.io/badge/Armsuki-github-blue?logo=github)](https://github.com/armsuki) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1265--0839-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1265-0839) [![Google  Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TRwERroAAAAJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yue-sun-094a22363)
+[![Email](https://img.shields.io/badge/Email-son.to.robotics%40gmail.com-6D4AFF?logo=gmail&logoColor=white)](mailto:son.to.robotics@gmail.com) [![Github](https://img.shields.io/badge/Armsuki-github-blue?logo=github)](https://github.com/armsuki) [![ORCID](https://img.shields.io/badge/ORCID-0009--0002--1265--0839-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0002-1265-0839) [![Google  Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-4285F4?logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=TRwERroAAAAJ) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yue-sun-094a22363)
 
 He is currently a M.Sc. student by research mode in the School of Electrical and Electronic Engineering (EE) at Universiti Sains Malaysia.
 
