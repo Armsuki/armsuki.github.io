@@ -19,8 +19,8 @@ Robot force control; Phscial AI; Observational Seismology; Microseismic Monitori
 Compliant behavior of robotic arm for Ultrasonic Examination based on DRL & DL
 
 #### Affiliated Academic Society
-1. IEEE Robotics & Automation Society  [<img src="https://www.ieee-ras.org/wp-content/uploads/2025/05/ras_logo.jpg" alt="IEEE RAS" height="24">](https://www.ieee-ras.org/)
-2. The Robotics Society of Japan | 日本ロボット学会  [<img src="assets/logo-rsj.svg" alt="RSJ" height="24">](https://www.rsj.or.jp/en)
+1. IEEE Robotics & Automation Society  [<img src="https://www.ieee-ras.org/wp-content/uploads/2025/05/ras_logo.jpg" alt="IEEE RAS" height="24" style="vertical-align:middle">](https://www.ieee-ras.org/)
+2. The Robotics Society of Japan | 日本ロボット学会  [<img src="assets/logo-rsj.svg" alt="RSJ" height="24" style="vertical-align:middle">](https://www.rsj.or.jp/en)
 
 #### Research Progress
 [[Workshop]](https://sites.google.com/view/armsuki-rsch)
