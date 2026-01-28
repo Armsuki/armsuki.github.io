@@ -16,4 +16,4 @@ B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 Robot force control; Foundation Model; Observational Seismology; Microseismic Monitoring
 
 #### Research Progress
-
+[[Workshop]](https://sites.google.com/view/armsuki-rsch)
