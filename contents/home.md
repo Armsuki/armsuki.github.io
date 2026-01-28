@@ -13,7 +13,14 @@ M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—Pres.\
 B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 
 #### Research Interests
-Robot force control; Foundation Model; Observational Seismology; Microseismic Monitoring
+Robot force control; Phscial AI; Observational Seismology; Microseismic Monitoring
+
+#### Ongoing project
+Compliant behavior of robotic arm for Ultrasonic Examination based on DRL & DL
+
+#### Society
+1. IEEE Robotics & Automation Society  [<img src="https://www.ieee-ras.org/wp-content/uploads/2025/05/ras_logo.jpg" alt="IEEE RAS" height="24">](https://www.ieee-ras.org/)
+2. The Robotics Society of Japan | 日本ロボット学会
 
 #### Research Progress
 [[Workshop]](https://sites.google.com/view/armsuki-rsch)
