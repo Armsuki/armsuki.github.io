@@ -11,3 +11,9 @@
 
 - X. Dai, <strong>Y. Sun</strong>, et al., An ultrasound probe rotation device for prostate particle implantation: China, CN115778428B[P], 2024.11.19.
 
+- <strong>Y. Sun</strong>, et al., Visual-guided prostate particle implantation robot control system and control method: China, CN117398187A[P], 2024.01.16.
+
+- X. Dai, <strong>Y. Sun</strong>, et al., A corrective device to improve the accuracy of prostate particle implantation needle puncture: China, CN115778502A[P], 2023.03.14.
+
+- X. Dai, <strong>Y. Sun</strong>, et al., An automated transrectal prostate particle implantation end effector: China, CN115779282A[P], 2023.03.14.
+
