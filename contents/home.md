@@ -13,8 +13,8 @@ M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—Pres.\
 B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 
 #### Research Interests
-1.Robot force control
-2.Physcial AI 
+1.Robot force control \
+2.Physcial AI         \
 3.Embedded system
 
 #### Ongoing Project
@@ -25,4 +25,4 @@ Compliant behavior of robotic arm for Ultrasonic Examination based on DRL & DL
 2. The Robotics Society of Japan | 日本ロボット学会  [<img src="assets/logo-rsj.svg" alt="RSJ" height="24" style="vertical-align:middle">](https://www.rsj.or.jp/en)
 
 #### Research Progress
-[[Workshop]](https://sites.google.com/view/armsuki-rsch)
+[[Lab]](https://sites.google.com/view/armsuki-rsch)
