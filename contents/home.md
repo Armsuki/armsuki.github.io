@@ -13,7 +13,9 @@ M.Sc., Robotics, Universiti Sains Malaysia, Malaysia, 2025—Pres.\
 B.Eng., Robotics Engineering, Wuxi University, China, 2019—2023.
 
 #### Research Interests
-Robot force control; Physcial AI; Embedded system
+1.Robot force control
+2.Physcial AI 
+3.Embedded system
 
 #### Ongoing Project
 Compliant behavior of robotic arm for Ultrasonic Examination based on DRL & DL
